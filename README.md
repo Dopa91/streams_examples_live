@@ -1,6 +1,7 @@
-Shows how to use Streams in dart.
+# streams_examples_live
+
+Shows how to use Streams in Dart.
 
 Contains one example and one exercise.
-
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+The locations is already done.
+The IP addresses need to be implemented, like the locations.
